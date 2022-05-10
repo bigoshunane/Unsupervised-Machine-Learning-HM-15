@@ -8,7 +8,7 @@ The original cryptocurrency data from CryptoCompare is preprocessed using Pandas
 
 The following methos applied to the given raw data:
 
-                    . Database preprocessing, details found in jypternotebook (file)[https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb] in repo
+   . Database preprocessing, details found in jypternotebook file [https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb]() in repo
                     
                     . Reducing the data dimension using Principal Component Analysis,
          
