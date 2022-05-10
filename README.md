@@ -8,13 +8,13 @@ The original cryptocurrency data from CryptoCompare is preprocessed using Pandas
 
 The following methos applied to the given raw data:
 
-                    . Database preprocessing, details found in juypternotebook file named [cryptocurrency_cluster.ipynb](https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb) in this repository.
+   . Database preprocessing, details found in juypternotebook file named [cryptocurrency_cluster.ipynb](https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb) in this repository.
                     
-                    . Reducing the data dimension using Principal Component Analysis,
+   . Reducing the data dimension using Principal Component Analysis,
          
-                    . Clustering cryptocurrencies using K-Means and
+   . Clustering cryptocurrencies using K-Means and
  
-                    . Visualizing classification results with 2D and 3D scatter plots.
+   . Visualizing classification results with 2D and 3D scatter plots.
 
 # Data Source
 
