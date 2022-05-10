@@ -78,3 +78,9 @@ It would appear that splitting up the coins into four clusters was quite appropr
 . High supply, high demand
 
 Based on this statistics, together with more information about the companies issuing these coins and their price history it would be very instructive in determining the cluster of currencies into which it would be more reasonable to invest in. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's customers.
+
+
+# References
+Crypto Coin Comparison Ltd. (2020) Coin market capitalization lists of crypto currencies and prices. Retrieved from https://www.cryptocompare.com/coins/list/all/USD/1
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
