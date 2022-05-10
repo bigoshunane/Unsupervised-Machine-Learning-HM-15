@@ -74,4 +74,5 @@ It would appear that splitting up the coins into four clusters was quite appropr
 . Low supply, low demand
 
 . High supply, high demand
+
 Based on this statistics, together with more information about the companies issuing these coins and their price history it would be very instructive in determining the cluster of currencies into which it would be more reasonable to invest in. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's customers.
