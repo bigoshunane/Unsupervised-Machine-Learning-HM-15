@@ -1,6 +1,6 @@
 # Cryptocurrency Clusters
 
-# Project objective
+## Project objective
 
 The aim of this project is to use unsupervised machine learning to analyze a database of cryptocurrencies and create a report including the traded cryptocurrencies classified by group according to their features. The classification report will be for investment bank to propose a new cryptocurrency investment portfolio to its customers.
 
@@ -16,11 +16,11 @@ The following methos applied to the given raw data:
  
    . Visualizing classification results with 2D and 3D scatter plots.
 
-# Data Source
+## Data Source
 
  https://min-api.cryptocompare.com/data/all/coinlist  and https://www.cryptocompare.com/coins/list/all/USD/1
  
-# Technologies used
+## Technologies used
 
   . Python 
   
@@ -30,7 +30,7 @@ The following methos applied to the given raw data:
   
   . Plotly 
 
-# Results
+## Results
 
 1. Clustering Cryptocurrencies using K-Means - Elbow Curve
 
@@ -65,7 +65,7 @@ Scatter plot from two cryptocurrency features Using the PCA algorithm is the bes
 PC1 VS PC2
 <img width="1005" alt="PC1VS2" src="https://user-images.githubusercontent.com/84547558/167719643-e3339b82-4f7a-41bb-8c58-57fe5e6e644a.png">
 
-# Summary
+## Summary
 Based the analysis conducted about 532 cryptocurrencies have been identified based on similarities of their features. 
 It would appear that splitting up the coins into four clusters was quite appropriate. The clusters fall into the following categories:
 
@@ -80,7 +80,7 @@ It would appear that splitting up the coins into four clusters was quite appropr
 Based on this statistics, together with more information about the companies issuing these coins and their price history it would be very instructive in determining the cluster of currencies into which it would be more reasonable to invest in. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's customers.
 
 
-# References
+## References
 Crypto Coin Comparison Ltd. (2020) Coin market capitalization lists of crypto currencies and prices. Retrieved from https://www.cryptocompare.com/coins/list/all/USD/1
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
