@@ -86,6 +86,7 @@ Based on this statistics, together with more information about the companies iss
 
 
 ## References
+
 Crypto Coin Comparison Ltd. (2020) Coin market capitalization lists of crypto currencies and prices. Retrieved from https://www.cryptocompare.com/coins/list/all/USD/1
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
