@@ -13,13 +13,11 @@ The original cryptocurrency data from CryptoCompare is preprocessed using Pandas
 
 The following methos applied to the given raw data:
 
-   . Database preprocessing, details found in juypternotebook file named [cryptocurrency_cluster.ipynb](https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb) in this repository.
+-  Database preprocessing, details found in juypternotebook file named [cryptocurrency_cluster.ipynb](https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15/blob/main/cryptocurrency_cluster.ipynb) in this repository.
                     
-   . Reducing the data dimension using Principal Component Analysis,
-         
-   . Clustering cryptocurrencies using K-Means and
- 
-   . Visualizing classification results with 2D and 3D scatter plots.
+   -  Reducing the data dimension using Principal Component Analysis,
+   -  Clustering cryptocurrencies using K-Means and
+   -  Visualizing classification results with 2D and 3D scatter plots.
 
 ## Data Source
 
@@ -27,13 +25,10 @@ The following methos applied to the given raw data:
  
 ## Technologies used
 
-  . Python 
-  
-  . scikit-learn 
-  
-  . hvPlot 
-  
-  . Plotly 
+   -  Python 
+   -  scikit-learn 
+   -  hvPlot 
+   -  Plotly 
 
 ## Results
 
@@ -74,13 +69,10 @@ PC1 VS PC2
 Based the analysis conducted about 532 cryptocurrencies have been identified based on similarities of their features. 
 It would appear that splitting up the coins into four clusters was quite appropriate. The clusters fall into the following categories:
 
-. High supply, low demand
-
-. Medium supply, low demand
-
-. Low supply, low demand
-
-. High supply, high demand
+-  High supply, low demand
+-  Medium supply, low demand
+-  Low supply, low demand
+-  High supply, high demand
 
 Based on this statistics, together with more information about the companies issuing these coins and their price history it would be very instructive in determining the cluster of currencies into which it would be more reasonable to invest in. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's customers.
 
